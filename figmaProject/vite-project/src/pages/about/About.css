@@ -1,0 +1,107 @@
+.start-success{
+    height: 95vh;
+    background-color:#6176f7 ;
+    padding: 1rem;
+}
+
+.success{
+   display: flex;
+   flex-direction: row; 
+}
+
+.successText{
+    flex-basis: 60%;
+    padding: 2rem;
+    margin-top: 1rem;
+}
+
+.successImg{
+    flex-basis: 50%;
+}
+.img{
+    width: 80%;
+    height: 85%;
+}
+
+.details-mentor{
+    height: 28vh;
+    background-color: #f1f2f8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mentorship-wrapper1{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+}
+
+.popularcourses{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.courses{
+    height: 100vh;
+    padding: 4rem;
+}
+
+.course-title{
+    font-size: 55px;
+}
+
+
+.popular-category{
+    height: 85vh;
+    padding: 0 4rem;
+}
+
+.category-title{
+    font-size: 55px;
+}
+
+.best-instructors{
+   height: 100vh;
+   padding: 4rem;
+}
+
+.my-feedback{
+    height:100vh;
+    padding: 4rem;
+}
+
+.join-learning{
+    height:100vh;
+    padding: 4rem;
+    display: flex;
+    flex-direction: row; 
+}
+
+.learning-img{
+    flex-basis: 60%;
+}
+
+.learning-wrapper{
+    flex-basis: 50%;
+}
+
+.learning-title{
+    font-size: 65px;
+    font-weight: bold;
+    margin: 1.3rem 0;
+}
+
+.learning-subtitle{
+    font-size: 35px;
+    margin: 0;
+    color: #b3afaf;
+}
+
+.learning-text{
+    font-size: 20px;
+    margin-top: 2rem;
+}

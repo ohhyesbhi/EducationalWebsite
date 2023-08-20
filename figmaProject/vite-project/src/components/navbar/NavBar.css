@@ -1,0 +1,40 @@
+.navbar-wrapper{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+}
+
+.title-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.btn-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+.btn-others{
+    border: none;
+    border-radius: 15px;
+    margin-right: 3rem;
+    width: 80px;
+    height: 50px;
+}
+
+.btn-courses{
+    border: none;
+    border-radius: 15px;
+    margin-right: 3rem;
+    width: 80px;
+    background-color: #F27A44;
+    color: white;
+    height: 50px;
+}

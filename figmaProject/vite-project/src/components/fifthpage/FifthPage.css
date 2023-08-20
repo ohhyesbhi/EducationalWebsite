@@ -1,0 +1,168 @@
+.fifthpage-wrapper{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #fdfbf4;  
+}
+
+.studentform-image{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.studentImage{
+    width: 70%;
+    margin-bottom: 5rem;
+}
+
+.contacts-form{
+   width: 60%;
+   display: flex;
+   flex-direction: row;
+   justify-content: start;
+   align-items: center;
+   /* margin-top: 6rem; */
+}
+
+.student-form{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 500px;
+    height: 600px;
+    padding: 1rem;
+}
+
+.ip-city{
+    width: 250px;
+    padding: 0.5rem;
+}
+
+.booking-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.arrival{
+    flex-basis: 50%;
+}
+
+.arrival-ip{
+margin-right: 55px;
+padding: 0.5rem;
+}
+
+.daeparture-ip{
+padding: 0.5rem;
+}
+.departure{
+    flex-basis: 50%;
+}
+
+.booking-ip{
+    display: flex;
+    flex-direction: row;
+    justify-content: start; 
+}
+
+.numbers-ofBooking{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.stars{
+    flex-basis: 50%;
+}
+
+.stars-ip{
+    width: 170px;
+    height: 60px;
+    background-color: #dedede;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+    margin-right: 4rem;
+}
+
+.rooms-ip{
+    width: 170px;
+    height: 60px;
+    background-color: #dedede;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.rooms{
+    flex-basis: 50%;
+}
+
+.plus{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.plus:hover{
+    cursor: pointer;
+}
+
+.minus{
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.minus:hover{
+    cursor: pointer;
+}
+
+.btn-booknow{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border: none;
+    margin-top: 3rem;
+    border-radius: 7px;
+    font-size: 15px;
+}
+
+.circle8{
+    width: 80px;
+    height: 80px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #e0d3e0 15px;
+    position: absolute;
+    top: 2840px; 
+    left: 40px;
+ 
+}
+
+.circle9{
+    width: 110px;
+    height: 110px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #eef0b4 15px;
+    position: absolute;
+    top: 3200px; 
+    left: 1300px;
+ 
+}
+
+.heading{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.heading1{
+    font-weight: bold;
+}

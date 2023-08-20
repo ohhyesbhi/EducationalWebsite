@@ -1,0 +1,147 @@
+.firstpage-wrapper{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #fdfbf4;
+}
+
+
+.details-wrapper{
+   width: 60%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.details{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.title-subtitle{
+font-size: 25px;
+font-weight: bold;
+margin: 1rem 0;
+}
+
+.title{
+   font-size: 5.5rem;
+   margin: 0 ;
+   font-weight: bold;
+}
+
+.title-subtitle2{
+    font-size: 3.5rem;
+    margin-top: 0.5rem;
+}
+.title-subtitle3{
+    margin-top: 0rem;
+    font-size: 1.2rem;
+}
+
+.btn-signup{
+    border: none;
+    padding: 1rem;
+    background-color: #F27A44;
+    font-size: 20px;
+    border-radius: 25px;
+    color: white;
+    width: 120px;
+    margin-top: 1rem;
+}
+
+.btn-signup:hover{
+  color: black;
+  cursor: pointer;
+}
+.img-wrapper{
+  width: 45%;
+  height: 100%;
+}
+
+.img{
+    width: 75%;
+    height: 85%;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid #f7b983 15px;
+    position: absolute;
+    left: 1400px;
+    top: 150px;
+}
+
+.circle2{
+    width: 100px;
+    height: 100px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #a2fac7 15px;
+    position: absolute;
+    left: 70px;
+    top: 750px;
+}
+
+.circle3{
+    width: 100px;
+    height: 100px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #f4fabe 15px;
+    position: absolute;
+    left: 1400px;
+    top: 1050px;
+}
+
+.circle4{
+    width: 70px;
+    height: 70px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #85e4f2 15px;
+    position: absolute;
+    left: 1400px;
+    top: 2050px;
+}
+
+.circle5{
+    width: 120px;
+    height: 120px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #f3b2f7 15px;
+    position: absolute;
+    left: 500px;
+    top: 2600px;
+}
+
+.circle6{
+    width: 50px;
+    height: 50px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #f7b2b2 9px;
+    position: absolute;
+    left: 200px;
+    top: 2050px;
+}
+
+.circle7{
+    width: 100px;
+    height: 100px;
+    background-color:#fdfbf4 ;
+    border-radius: 100%;
+    border: solid  #8882a1 15px;
+    position: absolute;
+    left: 700px;
+    top: 1450px;
+}
